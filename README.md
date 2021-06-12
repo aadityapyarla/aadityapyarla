@@ -23,13 +23,13 @@ Mail me at 👉 &nbsp;&nbsp;aadityapyarla82@gmail.com
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
-[<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />][youtube]
-[<img align="left" alt="Sublime Text" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" />][youtube]
-[<img align="left" alt="Python" width="26px" src="https://files.realpython.com/media/python-logo.8eb72ea6927b.png" />][youtube]
-[<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />][youtube]
-[<img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][youtube]
-[<img align="left" alt="Github" width="26px" src="https://pngimg.com/uploads/mysql/small/mysql_PNG23.png" />][youtube]
+[<img align="left" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+[<img align="left" alt="Pycharm" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />][youtube]
+[<img align="left" alt="Sublime Text" width="26" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" />][youtube]
+[<img align="left" alt="Python" width="26" src="https://files.realpython.com/media/python-logo.8eb72ea6927b.png" />][youtube]
+[<img align="left" alt="Git" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />][youtube]
+[<img align="left" alt="Github" width="26" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][youtube]
+[<img align="left" alt="Github" width="26" src="https://pngimg.com/uploads/mysql/small/mysql_PNG23.png" />][youtube]
 
 <br />
 <br />
