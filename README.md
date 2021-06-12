@@ -29,6 +29,7 @@ Mail me at 👉 &nbsp;&nbsp;aadityapyarla82@gmail.com
 [<img align="left" alt="Python" width="26px" src="https://files.realpython.com/media/python-logo.8eb72ea6927b.png" />][youtube]
 [<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />][youtube]
 [<img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][youtube]
+[<img align="left" alt="Github" width="26px" src="https://pngimg.com/uploads/mysql/small/mysql_PNG23.png" />][youtube]
 
 <br />
 <br />
