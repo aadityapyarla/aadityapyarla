@@ -1,6 +1,6 @@
 ### Hello World, I'm Aaditya  👋  - aka **Crazy Coder**
 
-<img align="right" alt="GIF" src="https://img.freepik.com/free-vector/website-development-web-page-programming-coding_277904-5103.jpg?size=626&ext=jpg" width="500" height="320" />
+<img align="right" alt="GIF" src="https://image.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" width="500" height="320" />
 
 </br>
 
@@ -16,7 +16,7 @@
 ### Talk with me, I am kinda awesome:
 Mail me at 👉 &nbsp;&nbsp;aadityapyarla@gmail.com
 
-<br />
+<hr>
 
 ### Current Situation 😁
 ```I am currently learning Python to build some extraordinary things that can be integrated in real life😄 ```
@@ -35,15 +35,41 @@ Mail me at 👉 &nbsp;&nbsp;aadityapyarla@gmail.com
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityapyarla" />
+<a href="#" align="right">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityapyarla&show_icons=true" />
+</a>
+&nbsp;
+&nbsp;
+&nbsp;
+
+<a href="#">
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapyarla&langs_count=2" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/aadityapyarla/HangMan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityapyarla&repo=HangMan" />
+</a>
+&nbsp;
+&nbsp;
+&nbsp;
+<a href="https://github.com/aadityapyarla/SpaceInvaders">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityapyarla&repo=SpaceInvaders" />
 </a>
 
 
-<a href="https://github.com/Aaditya-Pyarla/2do.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapyarla&langs_count=2" />
-</a>
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aaditya-Pyarla&repo=2do.github.io)](https://github.com/anuraghazra/github-readme-stats)
+  <p align="center">
+    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+</p>
 
 [youtube]: https://github.com/Aadityapyarla
