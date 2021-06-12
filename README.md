@@ -14,7 +14,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-Mail me at 👉 &nbsp;&nbsp;aadityapyarla@gmail.com
+Mail me at 👉 &nbsp;&nbsp;aadityapyarla82@gmail.com
 
 <hr>
 
