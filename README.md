@@ -25,7 +25,7 @@ Mail me at 👉 &nbsp;&nbsp;aadityapyarla82@gmail.com
 
 [<img align="left" alt="Visual Studio Code" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][youtube]
 [<img align="left" alt="Pycharm" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />][youtube]
-[<img align="left" alt="Sublime Text" width="26" src="https://file.removal.ai/preview/tmp-60c473192e2a0.png" />][youtube]
+[<img align="left" alt="Sublime Text" width="26" src="[removal.ai]_tmp-60c47440b007f.png" />][youtube]
 [<img align="left" alt="Python" width="26" src="https://files.realpython.com/media/python-logo.8eb72ea6927b.png" />][youtube]
 [<img align="left" alt="Git" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />][youtube]
 [<img align="left" alt="Github" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />][youtube]
