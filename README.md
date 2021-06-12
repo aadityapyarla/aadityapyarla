@@ -43,7 +43,7 @@ Mail me at 👉 &nbsp;&nbsp;aadityapyarla@gmail.com
 &nbsp;
 
 <a href="#">
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapyarla&langs_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityapyarla&langs_count=2" />
 </a>
 
 <br />
