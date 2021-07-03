@@ -30,6 +30,9 @@ Mail me at 👉 &nbsp;&nbsp;aadityapyarla82@gmail.com
 [<img align="left" alt="Git" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />][youtube]
 [<img align="left" alt="Github" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />][youtube]
 [<img align="left" alt="MySql" width="26" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />][youtube]
+[<img align="left" alt="MySql" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][youtube]
+[<img align="left" alt="MySql" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png" />][youtube]
+[<img align="left" alt="MySql" width="26" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" />][youtube]
 
 <br />
 <br />
