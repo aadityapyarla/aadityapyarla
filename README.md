@@ -6,7 +6,7 @@
 
 ## I'm a Student, Developer!!🖐️
 - ✍ You can find my projects here
-- 🌱 I’m currently learning Python and MySql
+- 🌱 I’m currently learning Django and NeoVim
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Python ...Anything
 - 😄 Pronouns: He/Him
