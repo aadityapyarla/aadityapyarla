@@ -62,6 +62,11 @@ Mail me at 👉 &nbsp;&nbsp;aadityapyarla82@gmail.com
 <a href="https://github.com/aadityapyarla/SpaceInvaders">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityapyarla&repo=SpaceInvaders" />
 </a>
+<br />
+<br />
+<a href="https://github.com/aadityapyarla/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityapyarla&repo=dotfiles" />
+</a>
 
 
 <hr>
