@@ -19,7 +19,7 @@ Mail me at 👉 &nbsp;&nbsp;aadityapyarla82@gmail.com
 <hr>
 
 ### Current Situation 😁
-```I am currently learning Python to build some extraordinary things that can be integrated in real life😄 ```
+```I am currently learning Django for making some cool web apps for my own projects 😆 ```
 
 ### Languages and Tools:
 
