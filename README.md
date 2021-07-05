@@ -1,3 +1,5 @@
+<img width="100%" height="auto" src="svg.png" />
+
 ### Hello World, I'm Aaditya  👋  - aka **Crazy Coder**
 
 <img align="right" alt="GIF" src="https://image.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" width="500" height="320" />
@@ -23,16 +25,35 @@ Mail me at 👉 &nbsp;&nbsp;aadityapyarla82@gmail.com
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][youtube]
-[<img align="left" alt="Pycharm" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />][youtube]
-[<img align="left" alt="Sublime Text" width="26" src="[removal.ai]_tmp-60c47440b007f.png" />][youtube]
-[<img align="left" alt="Python" width="26" src="https://files.realpython.com/media/python-logo.8eb72ea6927b.png" />][youtube]
-[<img align="left" alt="Git" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />][youtube]
-[<img align="left" alt="Github" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />][youtube]
-[<img align="left" alt="MySql" width="26" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />][youtube]
-[<img align="left" alt="MySql" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][youtube]
-[<img align="left" alt="MySql" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png" />][youtube]
-[<img align="left" alt="MySql" width="26" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" />][youtube]
+[<img alt="Visual Studio Code" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][youtube]
+&nbsp;
+[<img alt="Pycharm" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />][youtube]
+&nbsp;
+&nbsp;
+[<img alt="Sublime Text" width="26" src="[removal.ai]_tmp-60c47440b007f.png" />][youtube]
+&nbsp;
+&nbsp;
+[<img alt="Python" width="26" src="https://files.realpython.com/media/python-logo.8eb72ea6927b.png" />][youtube]
+&nbsp;
+&nbsp;
+[<img alt="Git" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />][youtube]
+&nbsp;
+&nbsp;
+[<img alt="Github" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />][youtube]
+&nbsp;
+&nbsp;
+[<img alt="MySql" width="26" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />][youtube]
+&nbsp;
+&nbsp;
+[<img alt="MySql" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][youtube]
+&nbsp;
+&nbsp;
+[<img alt="MySql" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png" />][youtube]
+&nbsp;
+&nbsp;
+[<img alt="MySql" width="26" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" />][youtube]
+&nbsp;
+&nbsp;
 
 <br />
 <br />
@@ -67,7 +88,12 @@ Mail me at 👉 &nbsp;&nbsp;aadityapyarla82@gmail.com
 <a href="https://github.com/aadityapyarla/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityapyarla&repo=dotfiles" />
 </a>
-
+&nbsp;
+&nbsp;
+&nbsp;
+<a href="https://github.com/aadityapyarla/NeoVim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityapyarla&repo=NeoVim" />
+</a>
 
 <hr>
 <p align="center">
@@ -78,5 +104,8 @@ Mail me at 👉 &nbsp;&nbsp;aadityapyarla82@gmail.com
     <a href="mailto:aadityapyarla82@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
   </p>
 </p>
+
+<img width="100%" height="auto" src="svg (1).png" />
+
 
 [youtube]: https://github.com/Aadityapyarla
