@@ -2,7 +2,11 @@
 
 ### Hello World, I'm Aaditya  👋  - aka **Crazy Coder**
 
-<img align="right" alt="GIF" src="https://image.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" width="500" height="320" />
+<img align="right" alt="GIF" src="https://image.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" width="500" height="auto" />
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## I'm a Student, Developer!!🖐️
 - ✍ You can find my projects here
@@ -50,11 +54,7 @@ Mail me at 👉 &nbsp;&nbsp;aadityapyarla82@gmail.com
 &nbsp;
 &nbsp;
 [<img alt="MySql" width="26" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" />][youtube]
-&nbsp;
-&nbsp;
 
-<br />
-<br />
 
 ---
 
