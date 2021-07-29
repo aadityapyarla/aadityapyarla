@@ -92,6 +92,17 @@ Mail me at 👉 &nbsp;&nbsp;aadityapyarla82@gmail.com
 <a href="https://github.com/aadityapyarla/NeoVim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityapyarla&repo=NeoVim" />
 </a>
+<br />
+<br />
+<a href="https://github.com/aadityapyarla/dj-ecommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityapyarla&repo=dj-ecommerce" />
+</a>
+&nbsp;
+&nbsp;
+&nbsp;
+<a href="https://github.com/aadityapyarla/django-sensive">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityapyarla&repo=django-sensive" />
+</a>
 
 <hr>
 <p align="center">
