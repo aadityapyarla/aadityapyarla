@@ -95,13 +95,13 @@ Mail me at 👉 &nbsp;&nbsp;`aadityapyarla82@gmail.com`
 <br />
 <br />
 <a href="https://github.com/aadityapyarla/dj-ecommerce">
-  <img href="#" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityapyarla&repo=dj-ecommerce&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img href="#" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityapyarla&repo=dj-ecommerce&icon_color=79ff97&bg_color=30,30b7af,2841b7&title_color=fff&text_color=fff" />
 </a>
 &nbsp;
 &nbsp;
 &nbsp;
 <a href="https://github.com/aadityapyarla/django-sensive">
-  <img href="#" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityapyarla&repo=django-sensive&icon_color=79ff97&bg_color=30,30b7af,2841b7&title_color=fff&text_color=fff" />
+  <img href="#" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadityapyarla&repo=django-sensive&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
 <hr>
