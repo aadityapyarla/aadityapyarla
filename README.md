@@ -59,7 +59,11 @@ Mail me at 👉 &nbsp;&nbsp;`aadityapyarla82@gmail.com`
 ---
 
 <a href="#" align="right">
+<<<<<<< HEAD
   <img href="#" width="465" align="center" src="https://github-readme-stats.vercel.app/api?username=aadityapyarla&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
+=======
+  <img href="#" align="center" src="https://github-readme-stats.vercel.app/api?username=aadityapyarla&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
+>>>>>>> 30d81e4c181f6a43ab2febaf7f2af2cf92bac158
 </a>
 &nbsp;
 &nbsp;
